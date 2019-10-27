@@ -1,0 +1,6 @@
+First =int(input("Enter First number: "))
+Second =int(input("Enter second number"))
+print("The sum of {} and {} is {}".format(First, Second, First + Second))
+print("The diffrence between {} and {} is {}".format(First, Second, First - Second))
+print("The product of {} and {} is {}".format(First, Second, First * Second))
+print("The remainder of {} and {} is {}".format(First, Second, First / Second))

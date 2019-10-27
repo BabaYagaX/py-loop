@@ -1,0 +1,5 @@
+first_number= int(input("Enter First number: "))
+print (type(first_number))
+print("he had {} oranges".format(first_number))
+print("My name"+ "  is david")
+print("Number","oranges") 
